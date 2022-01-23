@@ -1,4 +1,4 @@
-#Hacker rank challenge solution 1
+# Hacker rank challenge solution 
 # list comprehension python
 
 def funct(x,y,z,n):
