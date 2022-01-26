@@ -53,7 +53,7 @@ key2= input()
 difference(main_list,key1,key2)
 
 """
-Inputs used in the example:
+Input values used for the example:
 main_list= [["knocked on the door"],['knocked at the door'],["knocked on John's door."],['knocked on the metal front door']]
 key1= ['knocked']
 key2= ['door']
