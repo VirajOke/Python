@@ -1,5 +1,5 @@
 """ This Pyhton program aims to identify if the two words in a set of sentences are 
-fixed collocation, flexible collocation or no collocation using mean and variance method"""
+fixed collocation, flexible collocation or not a collocation using mean and variance method"""
 
 import re
 import math
